@@ -1,4 +1,4 @@
-# Restaurant_data_analysis_with_Python
+# Supply_Chain_Management_data_analysis_with_Python
 
 Overview:-
 Supply chain logistics play a crucial role in ensuring efficient transportation, warehousing, and inventory management. This project focuses on analyzing a real-world dataset to uncover inefficiencies, optimize operations, and enhance decision-making. The insights gained from this analysis can help organizations streamline their supply chain processes, reduce costs, and improve service delivery.
